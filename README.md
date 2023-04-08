@@ -29,7 +29,7 @@
 
 <kbd><img src="https://github.com/TatyanaProtas/Final_test_work/blob/main/блок_схема.png?raw=true"/></kbd>
 
-3. Вы читаете данный фаил README.md
+3. Вы читаете данный файл README.md
 
 4. Программа находится в ветке [master](https://github.com/TatyanaProtas/Final_test_work/blob/main/Final_test-work.cs "перейти у решению")
 
@@ -105,3 +105,9 @@ void PrintArray(string[] array)
     Console.Write("] ");
 }
 ```
+Результат ввода в терминал
+
+<kbd><img src=""/></kbd>
+
+5. Скриншот коммитов
+<kbd><img src=""/></kbd>
