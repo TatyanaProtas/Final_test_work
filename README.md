@@ -27,7 +27,7 @@
 1. Вы находитесь в созданном репозитории Final_test_work.
 2. Блок-схема алгоритма:
 
-<kbd><img src="https://github.com/TatyanaProtas/Final_test_work/blob/main/блок%20схема.png?raw=true"/></kbd>
+<kbd><img src="https://github.com/TatyanaProtas/Final_test_work/blob/main/блок_схема.png?raw=true"/></kbd>
 3. Вы читаете данный фаил README.md
 4. Программа находится в ветке master
 Код программы:
