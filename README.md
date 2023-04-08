@@ -111,4 +111,4 @@ void PrintArray(string[] array)
 
 5. Скриншот коммитов
 
-<kbd><img src=""/></kbd>
+<kbd><img src="https://github.com/TatyanaProtas/Final_test_work/blob/main/Screenshot.png?raw=true"/></kbd>
