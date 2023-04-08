@@ -110,4 +110,5 @@ void PrintArray(string[] array)
 <kbd><img src=""/></kbd>
 
 5. Скриншот коммитов
+
 <kbd><img src=""/></kbd>
