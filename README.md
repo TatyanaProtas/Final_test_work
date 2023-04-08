@@ -31,7 +31,7 @@
 
 3. Вы читаете данный фаил README.md
 
-4. Программа находится в ветке [master](https://github.com/TatyanaProtas/Final_test_work/blob/main/Final_test-work.cs)
+4. Программа находится в ветке [master](https://github.com/TatyanaProtas/Final_test_work/blob/main/Final_test-work.cs "перейти у решению")
 
 Код программы:
 
