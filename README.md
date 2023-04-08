@@ -28,13 +28,15 @@
 2. Блок-схема алгоритма:
 
 <kbd><img src="https://github.com/TatyanaProtas/Final_test_work/blob/main/блок_схема.png?raw=true"/></kbd>
+
 3. Вы читаете данный фаил README.md
 
-4. Программа находится в ветке master
+4. Программа находится в ветке [master](https://github.com/TatyanaProtas/Final_test_work/blob/main/Final_test-work.cs)
 
 Код программы:
 
-```Commands();
+```
+Commands();
 string[] array = new string[] {};
 
 string fromUser = ReadInput("Введите команду: ");
