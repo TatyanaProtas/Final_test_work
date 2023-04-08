@@ -107,7 +107,8 @@ void PrintArray(string[] array)
 ```
 Результат ввода в терминал
 
-<kbd><img src=""/></kbd>
+
+<kbd><img src="https://github.com/TatyanaProtas/Final_test_work/blob/main/задача_решена1.png?raw=true"/></kbd>
 
 5. Скриншот коммитов
 
